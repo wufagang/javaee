@@ -11,6 +11,7 @@
     <modules>
         <module>javaee-jvm</module>
         <module>javaee-java8</module>
+        <module>javaee-interview</module>
     </modules>
 
     <dependencies>
