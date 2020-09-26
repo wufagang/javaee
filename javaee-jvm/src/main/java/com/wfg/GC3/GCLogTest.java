@@ -28,7 +28,7 @@ public class GCLogTest {
             Byte[] bytes = new Byte[1024*100] ; //100k
             list.add(bytes);
             try {
-                TimeUnit.MILLISECONDS.sleep(200);
+                TimeUnit.MILLISECONDS.sleep(2000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
